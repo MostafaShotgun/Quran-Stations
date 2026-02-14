@@ -1,1 +1,5 @@
-{"status": "Active", "version": "1.0.0", "message": "تحديث جديد"}
+{
+  "status": "Active",
+  "version": "1.0.0",
+  "message": "كل شيء يعمل بشكل جيد"
+}
