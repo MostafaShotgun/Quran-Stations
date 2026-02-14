@@ -1,5 +1,9 @@
 {
   "status": "Active",
   "version": "1.0.0",
-  "message": "كل شيء يعمل بشكل جيد"
+  "message": "كل شيء يعمل بشكل جيد",
+  "Activated_PCS": {
+    "555": "Unlimited",
+    "444": 100
+  }
 }
